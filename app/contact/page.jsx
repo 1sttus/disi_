@@ -26,19 +26,13 @@ const html = `<!-- Page preloader wrap
 		<div class="nav">
 			<div class="nav__content">
 				<ul class="nav__list">
-					<li class="nav__list-item"><a data-toggle="collapse" href="#collapseSub" class="cursor-link" role="button" aria-expanded="false" aria-controls="collapseSub">work</a>
-						<ul class="sub-links collapse" id="collapseSub">
-							<li><a href="/" class="cursor-link animsition-link">case studies</a></li>
-							<li><a href="/index-1" class="cursor-link animsition-link">hero slider</a></li>
-							<li><a href="/index-2" class="cursor-link animsition-link">boring masonry</a></li>
-							<li><a href="/index-3" class="cursor-link animsition-link">floating title</a></li>
-							<li><a href="/index-4" class="cursor-link animsition-link">gallery version</a></li>
-						</ul>
-					</li>
-					<li class="nav__list-item"><a href="/studio" class="cursor-link animsition-link">studio</a></li>
-					<li class="nav__list-item"><a href="/blog" class="cursor-link animsition-link">news</a></li>
-					<li class="nav__list-item active-nav"><a href="/contact" class="cursor-link animsition-link">contact</a></li>
-				</ul>
+<li class="nav__list-item"><a href="/" class="cursor-link animsition-link">home</a></li>
+<li class="nav__list-item"><a href="/index-2" class="cursor-link animsition-link">church projects</a></li>
+<li class="nav__list-item"><a href="/index-3" class="cursor-link animsition-link">brand projects</a></li>
+<li class="nav__list-item"><a href="/studio" class="cursor-link animsition-link">skills & tools</a></li>
+<li class="nav__list-item"><a href="/blog" class="cursor-link animsition-link">pricing</a></li>
+<li class="nav__list-item"><a href="/contact" class="cursor-link animsition-link">contact</a></li>
+</ul>
 			</div>
 		</div>	
 
@@ -59,36 +53,13 @@ const html = `<!-- Page preloader wrap
 		<div class="section padding-bottom-big over-hide background-dark-2">
 			<div class="container">
 				<div class="row justify-content-center">
-					<div class="col-md-4 ajax-form">
-						<input class="cursor-link" name="name" type="text" placeholder="Your Name: *" autocomplete="off">
+					<div class="col-md-10 text-center">
+						<p class="lead mb-4">Want to move a project forward? Send a quick message on WhatsApp and we’ll respond quickly with the best next step.</p>
+						<a href="https://wa.me/2348083439684" class="btn-draw cursor-link" target="_blank" rel="noopener noreferrer"><span class="btn-draw__text"><span>Chat on WhatsApp</span></span></a>
 					</div>
-					<div class="col-md-4 mt-4 mt-md-0 ajax-form">
-						<input class="cursor-link" name="email" type="text" placeholder="E-Mail: *" autocomplete="off">
-					</div>
-					<div class="section clearfix"></div>
-					<div class="col-md-8 mt-4 ajax-form">
-						<textarea class="cursor-link" name="message" placeholder="Tell Us Everything"></textarea>
-					</div>
-					<div class="section clearfix"></div>
-					<div class="col-md-8 mt-4 ajax-checkbox">
-						<ul class="list">
-							<li class="list__item">
-								<label class="label--checkbox cursor-link">
-									<input type="checkbox" class="checkbox">
-									collect my details
-								</label>
-							</li>
-						</ul>
-					</div>
-					<div class="section clearfix"></div>
-					<div class="col-md-8 mt-4 ajax-form text-center">
-						<button class="send_message cursor-link" id="send" data-lang="en"><span>submit</span></button>
-					</div>
-				</div>	
-			</div>			
-		</div>
-	
-		<div class="section padding-top-bottom-big over-hide">
+				</div>
+			</div>
+<div class="section padding-top-bottom-big over-hide">
 	
 			<div class="parallax" style="background-image: url('/alke/img/map.jpg')"></div>
 			<div class="dark-over-pages"></div>
@@ -112,9 +83,9 @@ const html = `<!-- Page preloader wrap
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-md-12 text-center">
-						<a href="mailto:office@alke.com" class="cursor-link">
+						<a href="mailto:hello@disi.com" class="cursor-link">
 							<div class="project-link-wrap on-contact">
-								<p>office@alke.com</p>
+								<p>hello@disi.com</p>
 							</div>
 						</a>
 					</div>
@@ -126,7 +97,7 @@ const html = `<!-- Page preloader wrap
 			<div class="container-fluid px-5">
 				<div class="row">
 					<div class="col-md-6 footer text-center text-md-left">
-						<p>2019 © <a href="https://themeforest.net/user/ig_design/portfolio" class="cursor-link">Alke</a> template by <a href="https://themeforest.net/user/ig_design/portfolio" class="cursor-link">IG Design</a></p>	
+						<p>2026 © Disi</p>	
 					</div>
 					<div class="col-md-6 mt-4 mt-md-0 text-center">
 						<div class="social-wrap on-footer">

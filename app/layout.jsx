@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Alke",
-  description: "Professional Creative Template",
+  title: "Disi",
+  description: "Disi — Creative Brand & Design Portfolio",
 };
 
 export default function RootLayout({ children }) {

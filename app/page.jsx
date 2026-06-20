@@ -26,19 +26,13 @@ const html = `<!-- Page preloader wrap
 		<div class="nav">
 			<div class="nav__content">
 				<ul class="nav__list">
-					<li class="nav__list-item active-nav"><a data-toggle="collapse" href="#collapseSub" class="cursor-link" role="button" aria-expanded="false" aria-controls="collapseSub">work</a>
-						<ul class="sub-links collapse" id="collapseSub">
-							<li class="active-nav"><a href="/" class="cursor-link animsition-link">case studies</a></li>
-							<li><a href="/index-1" class="cursor-link animsition-link">hero slider</a></li>
-							<li><a href="/index-2" class="cursor-link animsition-link">boring masonry</a></li>
-							<li><a href="/index-3" class="cursor-link animsition-link">floating title</a></li>
-							<li><a href="/index-4" class="cursor-link animsition-link">gallery version</a></li>
-						</ul>
-					</li>
-					<li class="nav__list-item"><a href="/studio" class="cursor-link animsition-link">studio</a></li>
-					<li class="nav__list-item"><a href="/blog" class="cursor-link animsition-link">news</a></li>
-					<li class="nav__list-item"><a href="/contact" class="cursor-link animsition-link">contact</a></li>
-				</ul>
+<li class="nav__list-item"><a href="/" class="cursor-link animsition-link">home</a></li>
+<li class="nav__list-item"><a href="/index-2" class="cursor-link animsition-link">church projects</a></li>
+<li class="nav__list-item"><a href="/index-3" class="cursor-link animsition-link">brand projects</a></li>
+<li class="nav__list-item"><a href="/studio" class="cursor-link animsition-link">skills & tools</a></li>
+<li class="nav__list-item"><a href="/blog" class="cursor-link animsition-link">pricing</a></li>
+<li class="nav__list-item"><a href="/contact" class="cursor-link animsition-link">contact</a></li>
+</ul>
 			</div>
 		</div>	
 
@@ -46,25 +40,25 @@ const html = `<!-- Page preloader wrap
 		================================================== -->
 	
 		<div class="section full-height over-hide background-dark-2">
-			<div class="case-study-name-title">case studies</div>
+			<div class="case-study-name-title">recent projects</div>
 			<ul class="case-study-wrapper">
-				<li class="case-study-name">                            	
-					<span>Reconstype</span> <a href="/project" class="cursor-link animsition-link">explore</a>
+					<li class="case-study-name">                            	
+					<span>Dando Roofing Website</span> <a href="/project" class="cursor-link animsition-link">view project</a>
 				</li>
 				<li class="case-study-name">                                         	
-					<span>Kresios</span> <a href="/project" class="cursor-link animsition-link">explore</a>
+					<span>For His Reward NGO</span> <a href="/project" class="cursor-link animsition-link">view project</a>
 				</li>
 				<li class="case-study-name">                                        	
-					<span>Chocolates</span> <a href="/project" class="cursor-link animsition-link">explore</a>
+					<span>BCM Conference Branding</span> <a href="/project" class="cursor-link animsition-link">view project</a>
 				</li>
 				<li class="case-study-name">                                         	
-					<span>Maybach</span> <a href="/project" class="cursor-link animsition-link">explore</a>
+					<span>Christian Author Book Covers</span> <a href="/project" class="cursor-link animsition-link">view project</a>
 				</li>
 				<li class="case-study-name">                                           	
-					<span>Anwis Stuttgart</span> <a href="/project" class="cursor-link animsition-link">explore</a>
+					<span>Real Estate Landing Page</span> <a href="/project" class="cursor-link animsition-link">view project</a>
 				</li>
 				<li class="case-study-name">                                         	
-					<span>Brand Center</span> <a href="/project" class="cursor-link animsition-link">explore</a>
+					<span>Fintech Mobile App UI</span> <a href="/project" class="cursor-link animsition-link">view project</a>
 				</li>
 			</ul>
 			<ul class="case-study-images">
@@ -74,37 +68,37 @@ const html = `<!-- Page preloader wrap
 					<div class="hero-number-back">01</div> 
 					<div class="hero-number">01</div> 
 					<div class="hero-number-fixed">06</div> 
-					<div class="case-study-title">Graphic design, typography, interaction</div> 
+					<div class="case-study-title">Polycarbonate Roofing Website</div> 
 				</li>
 				<li>
 					<div class="img-hero-background" style="background-image: url('/alke/img/4.jpg');"></div> 
 					<div class="hero-number-back">02</div> 
 					<div class="hero-number">02</div>  
-					<div class="case-study-title">advertising, art direction</div> 
+					<div class="case-study-title">Christian Book Cover Collection</div> 
 				</li>
 				<li>
 					<div class="img-hero-background" style="background-image: url('/alke/img/1.jpg');"></div>
 					<div class="hero-number-back">03</div>  
 					<div class="hero-number">03</div> 
-					<div class="case-study-title">art direction, photography, retouching</div> 
+					<div class="case-study-title">NGO Campaign Branding</div> 
 				</li>
 				<li>
 					<div class="img-hero-background" style="background-image: url('/alke/img/5.jpg');"></div> 
 					<div class="hero-number-back">04</div> 
 					<div class="hero-number">04</div> 
-					<div class="case-study-title">photography, advertising, fine arts</div> 
+					<div class="case-study-title">Church Conference Media Design</div> 
 				</li>
 				<li>
 					<div class="img-hero-background" style="background-image: url('/alke/img/2.jpg');"></div> 
 					<div class="hero-number-back">05</div> 
 					<div class="hero-number">05</div> 
-					<div class="case-study-title">architecture, exhibition design</div> 
+					<div class="case-study-title">UI/UX Mobile App Design</div> 
 				</li>
 				<li>
 					<div class="img-hero-background" style="background-image: url('/alke/img/6.jpg');"></div> 
 					<div class="hero-number-back">06</div> 
 					<div class="hero-number">06</div> 
-					<div class="case-study-title">interior design</div> 
+					<div class="case-study-title">Corporate Brand Identity</div> 
 				</li>
 			</ul>	
 			<div class="social-wrap">

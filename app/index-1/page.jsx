@@ -26,19 +26,13 @@ const html = `<!-- Page preloader wrap
 		<div class="nav">
 			<div class="nav__content">
 				<ul class="nav__list">
-					<li class="nav__list-item active-nav"><a data-toggle="collapse" href="#collapseSub" class="cursor-link" role="button" aria-expanded="false" aria-controls="collapseSub">work</a>
-						<ul class="sub-links collapse" id="collapseSub">
-							<li><a href="/" class="cursor-link animsition-link">case studies</a></li>
-							<li class="active-nav"><a href="/index-1" class="cursor-link animsition-link">hero slider</a></li>
-							<li><a href="/index-2" class="cursor-link animsition-link">boring masonry</a></li>
-							<li><a href="/index-3" class="cursor-link animsition-link">floating title</a></li>
-							<li><a href="/index-4" class="cursor-link animsition-link">gallery version</a></li>
-						</ul>
-					</li>
-					<li class="nav__list-item"><a href="/studio" class="cursor-link animsition-link">studio</a></li>
-					<li class="nav__list-item"><a href="/blog" class="cursor-link animsition-link">news</a></li>
-					<li class="nav__list-item"><a href="/contact" class="cursor-link animsition-link">contact</a></li>
-				</ul>
+<li class="nav__list-item"><a href="/" class="cursor-link animsition-link">home</a></li>
+<li class="nav__list-item"><a href="/index-2" class="cursor-link animsition-link">church projects</a></li>
+<li class="nav__list-item"><a href="/index-3" class="cursor-link animsition-link">brand projects</a></li>
+<li class="nav__list-item"><a href="/studio" class="cursor-link animsition-link">skills & tools</a></li>
+<li class="nav__list-item"><a href="/blog" class="cursor-link animsition-link">pricing</a></li>
+<li class="nav__list-item"><a href="/contact" class="cursor-link animsition-link">contact</a></li>
+</ul>
 			</div>
 		</div>	
 
@@ -61,8 +55,8 @@ const html = `<!-- Page preloader wrap
 						<div class="container">
 							<div class="row">
 								<div class="col-md-12">
-									<h3 class="velo-slide__title"><span class="oh"><span>Kresios</span></span></h3>
-									<p class="velo-slide__text"><span class="oh"><span>advertising, art direction</span></span></p>
+									<h3 class="velo-slide__title"><span class="oh"><span>Polycarbonate Roofing Website</span></span></h3>
+									<p class="velo-slide__text"><span class="oh"><span>Construction website and project showcase</span></span></p>
 									<span class="velo-slide__btn"><a class="btn-draw cursor-link animsition-link" href="/project"><span class="btn-draw__text"><span>View Work</span></span></a></span>
 								</div>
 							</div>	
@@ -83,8 +77,8 @@ const html = `<!-- Page preloader wrap
 						<div class="container">
 							<div class="row">
 								<div class="col-md-12">
-									<h3 class="velo-slide__title"><span class="oh"><span>Maybach</span></span></h3>
-									<p class="velo-slide__text"><span class="oh"><span>photography, advertising, fine arts</span></span></p>
+									<h3 class="velo-slide__title"><span class="oh"><span>Christian Book Cover Collection</span></span></h3>
+									<p class="velo-slide__text"><span class="oh"><span>Spiritual publishing and author branding</span></span></p>
 									<span class="velo-slide__btn"><a class="btn-draw cursor-link animsition-link" href="/project"><span class="btn-draw__text"><span>View Project</span></span></a></span>
 								</div>
 							</div>	
@@ -105,8 +99,8 @@ const html = `<!-- Page preloader wrap
 						<div class="container">
 							<div class="row">
 								<div class="col-md-12">
-									<h3 class="velo-slide__title"><span class="oh"><span>Reconstype</span></span></h3>
-									<p class="velo-slide__text"><span class="oh"><span>Graphic design, typography, interaction</span></span></p>
+									<h3 class="velo-slide__title"><span class="oh"><span>NGO Campaign Branding</span></span></h3>
+									<p class="velo-slide__text"><span class="oh"><span>Nonprofit campaign identity and creative assets</span></span></p>
 									<span class="velo-slide__btn"><a class="btn-draw cursor-link animsition-link" href="/project"><span class="btn-draw__text"><span>View Project</span></span></a></span>
 								</div>
 							</div>	

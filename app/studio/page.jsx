@@ -26,14 +26,13 @@ const html = `<!-- Page preloader wrap
 		<div class="nav">
 			<div class="nav__content">
 				<ul class="nav__list">
-					<li class="nav__list-item"><a data-toggle="collapse" href="#collapseSub" class="cursor-link" role="button" aria-expanded="false" aria-controls="collapseSub">work</a>
-						<ul class="sub-links collapse" id="collapseSub">
-							<li><a href="/" class="cursor-link animsition-link">case studies</a></li>
-							<li><a href="/index-1" class="cursor-link animsition-link">hero slider</a></li>
-							<li><a href="/index-2" class="cursor-link animsition-link">boring masonry</a></li>
-							<li><a href="/index-3" class="cursor-link animsition-link">floating title</a></li>
-							<li><a href="/index-4" class="cursor-link animsition-link">gallery version</a></li>
-						</ul>
+<li class="nav__list-item"><a href="/" class="cursor-link animsition-link">home</a></li>
+<li class="nav__list-item"><a href="/index-2" class="cursor-link animsition-link">church projects</a></li>
+<li class="nav__list-item"><a href="/index-3" class="cursor-link animsition-link">brand projects</a></li>
+<li class="nav__list-item"><a href="/studio" class="cursor-link animsition-link">skills & tools</a></li>
+<li class="nav__list-item"><a href="/blog" class="cursor-link animsition-link">pricing</a></li>
+<li class="nav__list-item"><a href="/contact" class="cursor-link animsition-link">contact</a></li>
+</ul>
 					</li>
 					<li class="nav__list-item active-nav"><a href="/studio" class="cursor-link animsition-link">studio</a></li>
 					<li class="nav__list-item"><a href="/blog" class="cursor-link animsition-link">news</a></li>
@@ -49,8 +48,8 @@ const html = `<!-- Page preloader wrap
 			<div class="container">
 				<div class="row">
 					<div class="col-12 section-title-wrap text-center parallax-fade-top">
-						<p>design studio</p>	
-						<h1>we build great<br>brands</h1>
+						<p>skills & tools</p>	
+						<h1>what we use to<br>move ideas forward</h1>
 					</div>
 				</div>	
 			</div>
@@ -60,7 +59,7 @@ const html = `<!-- Page preloader wrap
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-md-8 text-center">
-						<p class="mb-0 pb-0 lead">We help ambitious teams shape clear identities, memorable campaigns, and digital experiences that feel simple to use and hard to forget. Every project starts with careful listening and ends with work built to serve real people.</p>
+						<p class="mb-0 pb-0 lead">From brand systems to digital tools, we use the right mix of strategy, motion, and interface design to launch projects clearly and consistently.</p>
 					</div>
 					<div class="section clearfix"></div>
 					<div class="col-md-12 padding-top-bottom">
@@ -69,21 +68,21 @@ const html = `<!-- Page preloader wrap
 						</div>
 					</div>
 					<div class="col-md-4 text-center" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
-						<h5 class="mb-3">brand strategy</h5>
-						<p class="mb-0 pb-0">We define the voice, position, and visual direction that make a brand easier to recognize.</p>
+						<h5 class="mb-3">brand systems</h5>
+						<p class="mb-0 pb-0">Systematized brand strategy, naming, and messaging for consistent growth.</p>
 					</div>
-					<div class="col-md-4 text-center mt-5 mt-md-0" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
-						<h5 class="mb-3">identity design</h5>
-						<p class="mb-0 pb-0">We design flexible systems for logos, type, color, imagery, and day-to-day communication.</p>
+					<div class="col-md-8 text-center mt-5 mt-md-0" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
+						<h5 class="mb-3">motion & digital</h5>
+						<p class="mb-0 pb-0">Motion, video, and digital design that helps stories land with clarity.</p>
 					</div>
 					<div class="section clearfix"></div>
 					<div class="col-md-4 text-center mt-5" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
-						<h5 class="mb-3">campaigns</h5>
-						<p class="mb-0 pb-0">We create focused campaign concepts that connect across print, motion, social, and digital channels.</p>
+						<h5 class="mb-3">web & product</h5>
+						<p class="mb-0 pb-0">Product and website design that guides users from awareness to action.</p>
 					</div>
 					<div class="col-md-4 text-center mt-5" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
-						<h5 class="mb-3">web design</h5>
-						<p class="mb-0 pb-0">We build polished websites that balance strong visual design with fast, intuitive user journeys.</p>
+						<h5 class="mb-3">visual systems</h5>
+						<p class="mb-0 pb-0">Visual systems, iconography, and content design that scale with your brand.</p>
 					</div>
 				</div>	
 			</div>			
@@ -118,7 +117,7 @@ const html = `<!-- Page preloader wrap
 			<div class="container-fluid px-5">
 				<div class="row">
 					<div class="col-md-6 footer text-center text-md-left">
-						<p>2019 © <a href="https://themeforest.net/user/ig_design/portfolio" class="cursor-link">Alke</a> template by <a href="https://themeforest.net/user/ig_design/portfolio" class="cursor-link">IG Design</a></p>	
+						<p>2026 © Disi</p>	
 					</div>
 					<div class="col-md-6 mt-4 mt-md-0 text-center">
 						<div class="social-wrap on-footer">

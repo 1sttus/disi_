@@ -26,19 +26,13 @@ const html = `<!-- Page preloader wrap
 		<div class="nav">
 			<div class="nav__content">
 				<ul class="nav__list">
-					<li class="nav__list-item active-nav"><a data-toggle="collapse" href="#collapseSub" class="cursor-link" role="button" aria-expanded="false" aria-controls="collapseSub">work</a>
-						<ul class="sub-links collapse" id="collapseSub">
-							<li><a href="/" class="cursor-link animsition-link">case studies</a></li>
-							<li><a href="/index-1" class="cursor-link animsition-link">hero slider</a></li>
-							<li class="active-nav"><a href="/index-2" class="cursor-link animsition-link">boring masonry</a></li>
-							<li><a href="/index-3" class="cursor-link animsition-link">floating title</a></li>
-							<li><a href="/index-4" class="cursor-link animsition-link">gallery version</a></li>
-						</ul>
-					</li>
-					<li class="nav__list-item"><a href="/studio" class="cursor-link animsition-link">studio</a></li>
-					<li class="nav__list-item"><a href="/blog" class="cursor-link animsition-link">news</a></li>
-					<li class="nav__list-item"><a href="/contact" class="cursor-link animsition-link">contact</a></li>
-				</ul>
+<li class="nav__list-item"><a href="/" class="cursor-link animsition-link">home</a></li>
+<li class="nav__list-item"><a href="/index-2" class="cursor-link animsition-link">church projects</a></li>
+<li class="nav__list-item"><a href="/index-3" class="cursor-link animsition-link">brand projects</a></li>
+<li class="nav__list-item"><a href="/studio" class="cursor-link animsition-link">skills & tools</a></li>
+<li class="nav__list-item"><a href="/blog" class="cursor-link animsition-link">pricing</a></li>
+<li class="nav__list-item"><a href="/contact" class="cursor-link animsition-link">contact</a></li>
+</ul>
 			</div>
 		</div>	
 
@@ -49,8 +43,8 @@ const html = `<!-- Page preloader wrap
 			<div class="container">
 				<div class="row">
 					<div class="col-12 section-title-wrap text-center parallax-fade-top">
-						<p>we do magic</p>	
-						<h1>chase your<br>passion</h1>
+						<p>church projects</p>	
+						<h1>projects for churches<br>and ministries</h1>
 					</div>
 				</div>	
 			</div>
@@ -73,78 +67,78 @@ const html = `<!-- Page preloader wrap
 			</div>
 						
 			<div id="projects-grid">
-				<a href="/project" class="cursor-link animsition-link">
-					<div class="portfolio-box photo">
-						<img src="/alke/img/portfolio/4.jpg" alt="">
-						<div class="portfolio-mask"></div>
-						<p>art direction</p>
-						<h4>kresios</h4>
-					</div>
-				</a>
-				<a href="/project" class="cursor-link animsition-link">
-					<div class="portfolio-box motion">
-						<img src="/alke/img/portfolio/9.jpg" alt="">
-						<div class="portfolio-mask"></div>
-						<p>packaging</p>
-						<h4>bols genever</h4>
-					</div>
-				</a>
-				<a href="/project" class="cursor-link animsition-link">
-					<div class="portfolio-box branding">
-						<img src="/alke/img/portfolio/3.jpg" alt="">
-						<div class="portfolio-mask"></div>
-						<p>interaction</p>
-						<h4>reconstype</h4>
-					</div>
-				</a>
-				<a href="/project" class="cursor-link animsition-link">
-					<div class="portfolio-box photo">
-						<img src="/alke/img/portfolio/5.jpg" alt="">
-						<div class="portfolio-mask"></div>
-						<p>advertising</p>
-						<h4>maybach</h4>
-					</div>
-				</a>
-				<a href="/project" class="cursor-link animsition-link">
-					<div class="portfolio-box motion">
-						<img src="/alke/img/portfolio/8.jpg" alt="">
-						<div class="portfolio-mask"></div>
-						<p>branding</p>
-						<h4>ercoli 1928</h4>
-					</div>
-				</a>
-				<a href="/project" class="cursor-link animsition-link">
-					<div class="portfolio-box branding">
-						<img src="/alke/img/portfolio/2.jpg" alt="">
-						<div class="portfolio-mask"></div>
-						<p>architecture</p>
-						<h4>anwis stuttgart</h4>
-					</div>
-				</a>
-				<a href="/project" class="cursor-link animsition-link">
-					<div class="portfolio-box photo">
-						<img src="/alke/img/portfolio/1.jpg" alt="">
-						<div class="portfolio-mask"></div>
-						<p>photography</p>
-						<h4>chocolates</h4>
-					</div>
-				</a>
-				<a href="/project" class="cursor-link animsition-link">
-					<div class="portfolio-box motion">
-						<img src="/alke/img/portfolio/7.jpg" alt="">
-						<div class="portfolio-mask"></div>
-						<p>art direction</p>
-						<h4>carbon</h4>
-					</div>
-				</a>
-				<a href="/project" class="cursor-link animsition-link">
-					<div class="portfolio-box photo">
-						<img src="/alke/img/portfolio/6.jpg" alt="">
-						<div class="portfolio-mask"></div>
-						<p>interior design</p>
-						<h4>brand center</h4>
-					</div>
-				</a>
+					<a href="/project" class="cursor-link animsition-link">
+						<div class="portfolio-box photo">
+							<img src="/alke/img/portfolio/4.jpg" alt="">
+							<div class="portfolio-mask"></div>
+							<p>church flyer</p>
+							<h4>Conference Media</h4>
+						</div>
+					</a>
+					<a href="/project" class="cursor-link animsition-link">
+						<div class="portfolio-box motion">
+							<img src="/alke/img/portfolio/9.jpg" alt="">
+							<div class="portfolio-mask"></div>
+							<p>event signage</p>
+							<h4>Service Launch</h4>
+						</div>
+					</a>
+					<a href="/project" class="cursor-link animsition-link">
+						<div class="portfolio-box branding">
+							<img src="/alke/img/portfolio/3.jpg" alt="">
+							<div class="portfolio-mask"></div>
+							<p>brand identity</p>
+							<h4>Ministry Brand</h4>
+						</div>
+					</a>
+					<a href="/project" class="cursor-link animsition-link">
+						<div class="portfolio-box photo">
+							<img src="/alke/img/portfolio/5.jpg" alt="">
+							<div class="portfolio-mask"></div>
+							<p>digital outreach</p>
+							<h4>Online Ministry Campaign</h4>
+						</div>
+					</a>
+					<a href="/project" class="cursor-link animsition-link">
+						<div class="portfolio-box motion">
+							<img src="/alke/img/portfolio/8.jpg" alt="">
+							<div class="portfolio-mask"></div>
+							<p>conference materials</p>
+							<h4>Annual Meeting Design</h4>
+						</div>
+					</a>
+					<a href="/project" class="cursor-link animsition-link">
+						<div class="portfolio-box branding">
+							<img src="/alke/img/portfolio/2.jpg" alt="">
+							<div class="portfolio-mask"></div>
+							<p>venue collateral</p>
+							<h4>Venue Collateral Design</h4>
+						</div>
+					</a>
+					<a href="/project" class="cursor-link animsition-link">
+						<div class="portfolio-box photo">
+							<img src="/alke/img/portfolio/1.jpg" alt="">
+							<div class="portfolio-mask"></div>
+							<p>event branding</p>
+							<h4>Community Launch</h4>
+						</div>
+					</a>
+					<a href="/project" class="cursor-link animsition-link">
+						<div class="portfolio-box motion">
+							<img src="/alke/img/portfolio/7.jpg" alt="">
+							<div class="portfolio-mask"></div>
+							<p>church brand</p>
+							<h4>Church Brand System</h4>
+						</div>
+					</a>
+					<a href="/project" class="cursor-link animsition-link">
+						<div class="portfolio-box photo">
+							<img src="/alke/img/portfolio/6.jpg" alt="">
+							<div class="portfolio-mask"></div>
+							<p>digital identity</p>
+							<h4>Digital Identity Package</h4>
+						</div>
+					</a>
 			</div>		
 		</div>
 	
@@ -152,7 +146,7 @@ const html = `<!-- Page preloader wrap
 			<div class="container-fluid px-5">
 				<div class="row">
 					<div class="col-md-6 footer text-center text-md-left">
-						<p>2019 © <a href="https://themeforest.net/user/ig_design/portfolio" class="cursor-link">Alke</a> template by <a href="https://themeforest.net/user/ig_design/portfolio" class="cursor-link">IG Design</a></p>	
+						<p>2026 © Disi</p>	
 					</div>
 					<div class="col-md-6 mt-4 mt-md-0 text-center">
 						<div class="social-wrap on-footer">
