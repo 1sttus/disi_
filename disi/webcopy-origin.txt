@@ -1,0 +1,408 @@
+Uri: https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=devanagari,latin-ext
+File Name: C:\Downloaded Web Sites\ivang-design.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\ivang-design.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\poppins\v24\pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\poppins\v24\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\poppins\v24\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\poppins\v24\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\poppins\v24\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\poppins\v24\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\poppins\v24\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\poppins\v24\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\poppins\v24\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\poppins\v24\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\poppins\v24\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXiA8.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRiA8.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QiA8.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+File Name: C:\Downloaded Web Sites\ivang-design.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+Content Type: font/ttf
+
+Uri: https://ivang-design.com/alke/apple-touch-icon-114x114.png
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://ivang-design.com/alke/apple-touch-icon-72x72.png
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://ivang-design.com/alke/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://ivang-design.com/alke/blog.html
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\blog.html
+Content Type: text/html
+
+Uri: https://ivang-design.com/alke/contact.html
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\contact.html
+Content Type: text/html
+
+Uri: https://ivang-design.com/alke/css/animsition.min.css
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\css\animsition.min.css
+Content Type: text/css
+
+Uri: https://ivang-design.com/alke/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://ivang-design.com/alke/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://ivang-design.com/alke/css/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://ivang-design.com/alke/css/style.css
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\css\style.css
+Content Type: text/css
+
+Uri: https://ivang-design.com/alke/favicon.png
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\favicon.png
+Content Type: image/png
+
+Uri: https://ivang-design.com/alke/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ivang-design.com/alke/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ivang-design.com/alke/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://ivang-design.com/alke/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://ivang-design.com/alke/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://ivang-design.com/alke/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://ivang-design.com/alke/img/1.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\1.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/2.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\2.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/3.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\3.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/4.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\4.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/5.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\5.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/6.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\6.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/arrow-right.svg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://ivang-design.com/alke/img/arrow-up.svg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\arrow-up.svg
+Content Type: image/svg+xml
+
+Uri: https://ivang-design.com/alke/img/blog/1.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\blog\1.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/blog/2.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\blog\2.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/blog/3.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\blog\3.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/blog/4.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\blog\4.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/blog/5.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\blog\5.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/blog/6.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\blog\6.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/blog/7.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\blog\7.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/logo.png
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\logo.png
+Content Type: image/png
+
+Uri: https://ivang-design.com/alke/img/map.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\map.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/more.png
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\more.png
+Content Type: image/png
+
+Uri: https://ivang-design.com/alke/img/play.png
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\play.png
+Content Type: image/png
+
+Uri: https://ivang-design.com/alke/img/portfolio/1.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\portfolio\1.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/portfolio/2.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\portfolio\2.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/portfolio/3.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\portfolio\3.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/portfolio/4.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\portfolio\4.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/portfolio/5.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\portfolio\5.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/portfolio/6.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\portfolio\6.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/portfolio/7.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\portfolio\7.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/portfolio/8.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\portfolio\8.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/portfolio/9.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\portfolio\9.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/portfolio/project/1.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\portfolio\project\1.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/portfolio/project/2.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\portfolio\project\2.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/portfolio/project/3.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\portfolio\project\3.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/portfolio/project/4.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\portfolio\project\4.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/portfolio/project/5.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\portfolio\project\5.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/portfolio/project/6.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\portfolio\project\6.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/studio.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\studio.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/t1.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\t1.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/t2.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\t2.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/img/t3.jpg
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\img\t3.jpg
+Content Type: image/jpeg
+
+Uri: https://ivang-design.com/alke/index-1.html
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\index-1.html
+Content Type: text/html
+
+Uri: https://ivang-design.com/alke/index-2.html
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\index-2.html
+Content Type: text/html
+
+Uri: https://ivang-design.com/alke/index-3.html
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\index-3.html
+Content Type: text/html
+
+Uri: https://ivang-design.com/alke/index-4.html
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\index-4.html
+Content Type: text/html
+
+Uri: https://ivang-design.com/alke/index.html
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\index.html
+Content Type: text/html
+
+Uri: https://ivang-design.com/alke/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://ivang-design.com/alke/js/custom.js
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\js\custom.js
+Content Type: application/javascript
+
+Uri: https://ivang-design.com/alke/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://ivang-design.com/alke/js/plugins.js
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://ivang-design.com/alke/js/popper.min.js
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://ivang-design.com/alke/js/slider-hero-plugin.js
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\js\slider-hero-plugin.js
+Content Type: application/javascript
+
+Uri: https://ivang-design.com/alke/js/slider-hero.js
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\js\slider-hero.js
+Content Type: application/javascript
+
+Uri: https://ivang-design.com/alke/post.html
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\post.html
+Content Type: text/html
+
+Uri: https://ivang-design.com/alke/project.html
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\project.html
+Content Type: text/html
+
+Uri: https://ivang-design.com/alke/studio.html
+File Name: C:\Downloaded Web Sites\ivang-design.com\alke\studio.html
+Content Type: text/html
+
