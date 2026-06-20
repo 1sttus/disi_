@@ -78,11 +78,11 @@ const html = `<!-- Page preloader wrap
 						<p class="mb-0 mt-2">Tailored estimate for churches, books, or digital launches.</p>
 					</div>
 				</div>
-				<div class="col-md-12 text-center padding-top"<div class="col-md-12 text-center padding-top" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
-						<a href="#" class="cursor-link">
-							<div class="project-link-wrap">
-								<p>older</p>
-								<h4>news</h4>
+				<div class="col-md-12 text-center padding-top" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
+					<a href="#" class="cursor-link">
+						<div class="project-link-wrap">
+							<p>more</p>
+							<h4>packages</h4>
 							</div>
 						</a>
 					</div>

@@ -48,8 +48,8 @@ const html = `<!-- Page preloader wrap
 				<div class="container z-bigger">
 					<div class="row">
 						<div class="col-12 section-title-wrap text-center parallax-fade-top-pages">
-							<p>advertising</p>	
-							<h1>kresios</h1>
+							<p>conversion design</p>	
+							<h1>Brand and service website</h1>
 						</div>
 					</div>	
 				</div>	
@@ -74,9 +74,9 @@ const html = `<!-- Page preloader wrap
 						</a>
 					</div>
 					<div class="section clearfix"></div>
-					<div class="col-md-8 padding-top-bottom text-center" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
-						<p class="mb-0 pb-0 lead">Kresios needed a campaign language that could feel refined, direct, and adaptable across every touchpoint. We built a visual system around confident photography, disciplined typography, and a clear editorial rhythm.</p>
-					</div>
+						<div class="col-md-8 padding-top-bottom text-center" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
+							<p class="mb-0 pb-0 lead">This project needed a digital home that made quality and service clarity feel effortless. We built a modern website, visual identity, and contact flow that helps visitors connect and convert.</p>
+						</div>
 					<div class="section clearfix"></div>
 					<div class="col-md-12" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
 						<div class="video-section">
@@ -89,15 +89,15 @@ const html = `<!-- Page preloader wrap
 					</div>
 					<div class="section clearfix padding-top"></div>
 					<div class="col-md-4 text-center" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
-						<h5 class="mb-3">art direction</h5>
+						<h5 class="mb-3">web design</h5>
 						<p class="mb-0 pb-0">We shaped the concept, visual references, and on-set direction for a consistent campaign mood.</p>
 					</div>
 					<div class="col-md-4 text-center mt-4 mt-md-0" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
-						<h5 class="mb-3">cinematography</h5>
+						<h5 class="mb-3">content strategy</h5>
 						<p class="mb-0 pb-0">We planned movement, framing, and pacing so the story works in both short and long formats.</p>
 					</div>
 					<div class="col-md-4 text-center mt-4 mt-md-0" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
-						<h5 class="mb-3">advertising</h5>
+						<h5 class="mb-3">conversion design</h5>
 						<p class="mb-0 pb-0">We translated the campaign into clear messages for print, social, and digital placements.</p>
 					</div>
 					<div class="section clearfix padding-bottom"></div>
@@ -126,7 +126,7 @@ const html = `<!-- Page preloader wrap
 						<a href="/project" class="cursor-link animsition-link">
 							<div class="project-link-wrap">
 								<p>next</p>
-								<h4>anwis stuttgart</h4>
+								<h4>For His Reward NGO</h4>
 							</div>
 						</a>
 					</div>

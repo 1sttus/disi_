@@ -43,7 +43,7 @@ const html = `<!-- Page preloader wrap
 			<div class="case-study-name-title">recent projects</div>
 			<ul class="case-study-wrapper">
 					<li class="case-study-name">                            	
-					<span>Dando Roofing Website</span> <a href="/project" class="cursor-link animsition-link">view project</a>
+					<span>Creative brand website</span> <a href="/project" class="cursor-link animsition-link">view project</a>
 				</li>
 				<li class="case-study-name">                                         	
 					<span>For His Reward NGO</span> <a href="/project" class="cursor-link animsition-link">view project</a>
@@ -62,14 +62,14 @@ const html = `<!-- Page preloader wrap
 				</li>
 			</ul>
 			<ul class="case-study-images">
-				<li>
-					<div class="img-hero-background" style="background-image: url('/alke/img/3.jpg');"></div> 
-					<div class="dark-over-hero"></div>  
-					<div class="hero-number-back">01</div> 
-					<div class="hero-number">01</div> 
-					<div class="hero-number-fixed">06</div> 
-					<div class="case-study-title">Polycarbonate Roofing Website</div> 
-				</li>
+					<li>
+						<div class="img-hero-background" style="background-image: url('/alke/img/3.jpg');"></div> 
+						<div class="dark-over-hero"></div>  
+						<div class="hero-number-back">01</div> 
+						<div class="hero-number">01</div> 
+						<div class="hero-number-fixed">06</div> 
+						<div class="case-study-title">Creative brand website</div> 
+					</li>
 				<li>
 					<div class="img-hero-background" style="background-image: url('/alke/img/4.jpg');"></div> 
 					<div class="hero-number-back">02</div> 

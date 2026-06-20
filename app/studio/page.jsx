@@ -29,14 +29,9 @@ const html = `<!-- Page preloader wrap
 <li class="nav__list-item"><a href="/" class="cursor-link animsition-link">home</a></li>
 <li class="nav__list-item"><a href="/index-2" class="cursor-link animsition-link">church projects</a></li>
 <li class="nav__list-item"><a href="/index-3" class="cursor-link animsition-link">brand projects</a></li>
-<li class="nav__list-item"><a href="/studio" class="cursor-link animsition-link">skills & tools</a></li>
+<li class="nav__list-item active-nav"><a href="/studio" class="cursor-link animsition-link">skills & tools</a></li>
 <li class="nav__list-item"><a href="/blog" class="cursor-link animsition-link">pricing</a></li>
 <li class="nav__list-item"><a href="/contact" class="cursor-link animsition-link">contact</a></li>
-</ul>
-					</li>
-					<li class="nav__list-item active-nav"><a href="/studio" class="cursor-link animsition-link">studio</a></li>
-					<li class="nav__list-item"><a href="/blog" class="cursor-link animsition-link">news</a></li>
-					<li class="nav__list-item"><a href="/contact" class="cursor-link animsition-link">contact</a></li>
 				</ul>
 			</div>
 		</div>	

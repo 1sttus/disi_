@@ -55,8 +55,8 @@ const html = `<!-- Page preloader wrap
 						<div class="container">
 							<div class="row">
 								<div class="col-md-12">
-									<h3 class="velo-slide__title"><span class="oh"><span>Polycarbonate Roofing Website</span></span></h3>
-									<p class="velo-slide__text"><span class="oh"><span>Construction website and project showcase</span></span></p>
+										<h3 class="velo-slide__title"><span class="oh"><span>Creative brand website</span></span></h3>
+										<p class="velo-slide__text"><span class="oh"><span>Brand website design for high-impact audiences</span></span></p>
 									<span class="velo-slide__btn"><a class="btn-draw cursor-link animsition-link" href="/project"><span class="btn-draw__text"><span>View Work</span></span></a></span>
 								</div>
 							</div>	

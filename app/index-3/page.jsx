@@ -67,7 +67,7 @@ const html = `<!-- Page preloader wrap
 			</div>
 						
 			<div id="projects-grid">
-				<a href="/project" class="cursor-link animsition-link tipped" data-title="Dando Roofing Website <span><em>web design</em></span>" data-tipper-options='{"direction":"top","follow":"true","margin":30}'>
+						<a href="/project" class="cursor-link animsition-link tipped" data-title="Brand website <span><em>web design</em></span>" data-tipper-options='{"direction":"top","follow":"true","margin":30}'>
 					<div class="portfolio-box photo">
 						<img src="/alke/img/portfolio/4.jpg" alt="">
 						<div class="portfolio-mask"></div>

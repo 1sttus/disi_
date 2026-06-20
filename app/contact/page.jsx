@@ -67,12 +67,12 @@ const html = `<!-- Page preloader wrap
 			<div class="section z-bigger">
 				<div class="container z-bigger">
 					<div class="row justify-content-center">
-						<div class="col-md-7 text-center" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
-							<h5>99-81 Middagh St, Brooklyn<br>NY 11201, USA</h5>
+						<div class="col-md-7 text-center" data-scroll-reveal="enter bottom move 0.5s after 0.2s">
+							<h5>Available for church and brand work worldwide</h5>
 						</div>
 						<div class="section clearfix"></div>
-						<div class="col-md-7 mt-5 text-center" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
-							<a href="https://www.google.com/maps/place/99-81+Middagh+St,+Brooklyn,+NY+11201,+USA/@40.6999552,-73.9936128,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25a36fb73a3d1:0xb653e2f02fd08084!8m2!3d40.6999552!4d-73.9914241" class="contact-link cursor-link" target="_blank">find us on map</a>
+						<div class="col-md-7 mt-5 text-center" data-scroll-reveal="enter bottom move 0.5s after 0.2s">
+							<a href="https://wa.me/2348083439684" class="contact-link cursor-link" target="_blank" rel="noopener noreferrer">start a WhatsApp conversation</a>
 						</div>
 					</div>	
 				</div>	

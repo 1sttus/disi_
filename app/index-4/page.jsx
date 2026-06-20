@@ -43,8 +43,8 @@ const html = `<!-- Page preloader wrap
 			<div class="container">
 				<div class="row">
 					<div class="col-12 section-title-wrap text-center parallax-fade-top">
-						<p>we do magic</p>	
-						<h1>chase your<br>passion</h1>
+						<p>brand projects</p>	
+						<h1>brand work<br>that moves people</h1>
 					</div>
 				</div>	
 			</div>
@@ -72,7 +72,7 @@ const html = `<!-- Page preloader wrap
 						<img src="/alke/img/portfolio/4.jpg" alt="">
 						<div class="portfolio-mask"></div>
 						<p>art direction</p>
-						<h4>kresios</h4>
+						<h4>Church Conference Design</h4>
 					</div>
 				</a>
 				<a href="img/portfolio/9.jpg" class="cursor-link" data-fancybox="gallery">
@@ -80,7 +80,7 @@ const html = `<!-- Page preloader wrap
 						<img src="/alke/img/portfolio/9.jpg" alt="">
 						<div class="portfolio-mask"></div>
 						<p>packaging</p>
-						<h4>bols genever</h4>
+						<h4>Book Launch Identity</h4>
 					</div>
 				</a>
 				<a href="img/portfolio/3.jpg" class="cursor-link" data-fancybox="gallery">
@@ -88,7 +88,7 @@ const html = `<!-- Page preloader wrap
 						<img src="/alke/img/portfolio/3.jpg" alt="">
 						<div class="portfolio-mask"></div>
 						<p>interaction</p>
-						<h4>reconstype</h4>
+						<h4>Community Campaign System</h4>
 					</div>
 				</a>
 				<a href="img/portfolio/5.jpg" class="cursor-link" data-fancybox="gallery">
@@ -96,7 +96,7 @@ const html = `<!-- Page preloader wrap
 						<img src="/alke/img/portfolio/5.jpg" alt="">
 						<div class="portfolio-mask"></div>
 						<p>advertising</p>
-						<h4>maybach</h4>
+						<h4>Service Launch Brand</h4>
 					</div>
 				</a>
 				<a href="img/portfolio/8.jpg" class="cursor-link" data-fancybox="gallery">
@@ -104,7 +104,7 @@ const html = `<!-- Page preloader wrap
 						<img src="/alke/img/portfolio/8.jpg" alt="">
 						<div class="portfolio-mask"></div>
 						<p>branding</p>
-						<h4>ercoli 1928</h4>
+						<h4>Digital Product Refresh</h4>
 					</div>
 				</a>
 				<a href="img/portfolio/2.jpg" class="cursor-link" data-fancybox="gallery">
@@ -112,7 +112,7 @@ const html = `<!-- Page preloader wrap
 						<img src="/alke/img/portfolio/2.jpg" alt="">
 						<div class="portfolio-mask"></div>
 						<p>architecture</p>
-						<h4>anwis stuttgart</h4>
+						<h4>Ministry Design System</h4>
 					</div>
 				</a>
 				<a href="img/portfolio/1.jpg" class="cursor-link" data-fancybox="gallery">
@@ -120,7 +120,7 @@ const html = `<!-- Page preloader wrap
 						<img src="/alke/img/portfolio/1.jpg" alt="">
 						<div class="portfolio-mask"></div>
 						<p>photography</p>
-						<h4>chocolates</h4>
+						<h4>Author Launch Collateral</h4>
 					</div>
 				</a>
 				<a href="img/portfolio/7.jpg" class="cursor-link" data-fancybox="gallery">
@@ -128,7 +128,7 @@ const html = `<!-- Page preloader wrap
 						<img src="/alke/img/portfolio/7.jpg" alt="">
 						<div class="portfolio-mask"></div>
 						<p>art direction</p>
-						<h4>carbon</h4>
+						<h4>Brand Strategy Toolkit</h4>
 					</div>
 				</a>
 				<a href="img/portfolio/6.jpg" class="cursor-link" data-fancybox="gallery">
@@ -136,7 +136,7 @@ const html = `<!-- Page preloader wrap
 						<img src="/alke/img/portfolio/6.jpg" alt="">
 						<div class="portfolio-mask"></div>
 						<p>interior design</p>
-						<h4>brand center</h4>
+						<h4>Visual Systems Package</h4>
 					</div>
 				</a>
 			</div>		
