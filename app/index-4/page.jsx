@@ -126,7 +126,7 @@ const html = `<!-- Page preloader wrap
 						<img src="/alke/img/portfolio/1.jpg" alt="">
 						<div class="portfolio-mask"></div>
 						<p>photography</p>
-						<h4>cioccolati</h4>
+						<h4>chocolates</h4>
 					</div>
 				</a>
 				<a href="img/portfolio/7.jpg" class="cursor-link" data-fancybox="gallery">
@@ -134,7 +134,7 @@ const html = `<!-- Page preloader wrap
 						<img src="/alke/img/portfolio/7.jpg" alt="">
 						<div class="portfolio-mask"></div>
 						<p>art direction</p>
-						<h4>carbón</h4>
+						<h4>carbon</h4>
 					</div>
 				</a>
 				<a href="img/portfolio/6.jpg" class="cursor-link" data-fancybox="gallery">

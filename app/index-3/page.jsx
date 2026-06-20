@@ -109,13 +109,13 @@ const html = `<!-- Page preloader wrap
 						<div class="portfolio-mask"></div>
 					</div>
 				</a>
-				<a href="/project" class="cursor-link animsition-link tipped" data-title="cioccolati <span><em>photography</em></span>" data-tipper-options='{"direction":"top","follow":"true","margin":30}'>
+				<a href="/project" class="cursor-link animsition-link tipped" data-title="chocolates <span><em>photography</em></span>" data-tipper-options='{"direction":"top","follow":"true","margin":30}'>
 					<div class="portfolio-box photo">
 						<img src="/alke/img/portfolio/1.jpg" alt="">
 						<div class="portfolio-mask"></div>
 					</div>
 				</a>
-				<a href="/project" class="cursor-link animsition-link tipped" data-title="carbón <span><em>art direction</em></span>" data-tipper-options='{"direction":"top","follow":"true","margin":30}'>
+				<a href="/project" class="cursor-link animsition-link tipped" data-title="carbon <span><em>art direction</em></span>" data-tipper-options='{"direction":"top","follow":"true","margin":30}'>
 					<div class="portfolio-box motion">
 						<img src="/alke/img/portfolio/7.jpg" alt="">
 						<div class="portfolio-mask"></div>

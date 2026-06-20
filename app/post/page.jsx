@@ -64,8 +64,8 @@ const html = `<!-- Page preloader wrap
 							<div class="post-box background-dark-1 over-hide">
 								<img src="/alke/img/portfolio/2.jpg" alt="" class="blog-home-img">
 								<div class="padding-in">
-									<p class="mt-4">Nullam id dolor id nibh ultricies vehicula ut id elit. Curabitur blandit tempus porttitor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus. Vestibulum id ligula porta felis euismod semper.</p>
-									<p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus.</p>
+									<p class="mt-4">The best creative routines leave room for movement. A change of place, a short walk, or a quiet hour away from the screen can shift the way a project feels and help the next idea arrive with less force.</p>
+									<p>For our team, travel is not an escape from the work. It is one of the ways we notice patterns, gather references, and return with a clearer sense of what matters.</p>
 									<div class="row mt-4 mb-4">
 										<div class="col-md-6">
 											<img src="/alke/img/portfolio/1.jpg" alt="" class="blog-home-img">
@@ -74,7 +74,7 @@ const html = `<!-- Page preloader wrap
 											<img src="/alke/img/portfolio/6.jpg" alt="" class="blog-home-img mt-4 mt-md-0">
 										</div>
 									</div>
-									<p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p>
+									<p>Good projects are built from attention: to the brief, to the audience, and to the small details that make an experience feel considered. That attention grows when the studio rhythm includes time to observe the world outside the studio.</p>
 									<p>You can use the mark tag to <mark>highlight</mark> text.</p>
 									<p><del>This line of text is meant to be treated as deleted text.</del></p>
 									<p><s>This line of text is meant to be treated as no longer accurate.</s></p>
@@ -84,7 +84,7 @@ const html = `<!-- Page preloader wrap
 									<p><strong>This line rendered as bold text.</strong></p>
 									<p><em>This line rendered as italicized text.</em></p>	
 									<p class="lead">Design must reflect the practical and aesthetic in business but above all... good design must primarily serve people.</p>
-									<p>Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p>
+									<p>When the idea is clear, the design can become quieter, stronger, and easier to use.</p>
 									<div class="video-section mt-4 mb-4">
 										<figure class="vimeo"> 
 											<a href="https://player.vimeo.com/video/162863403" class="cursor-link">
@@ -96,7 +96,7 @@ const html = `<!-- Page preloader wrap
 										<p>Some people think design means how it looks. But of course, if you dig deeper, it's really how it works.</p>
 										<footer class="blockquote-footer">Jason Salvatore</footer>
 									</blockquote>
-									<p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p>							
+									<p>A thoughtful process makes space for research, experiments, sharp edits, and honest feedback. The result is work that feels alive without losing its purpose.</p>							
 									<blockquote class="blockquote blockquote-reverse">
 										<p>Some people think design means how it looks. But of course, if you dig deeper, it's really how it works.</p>
 										<footer class="blockquote-footer">Jason Salvatore</footer>
@@ -135,7 +135,7 @@ const html = `<!-- Page preloader wrap
 								<div class="section pl-5">	
 									<img src="/alke/img/t1.jpg" alt="">
 									<h6>Marco Furius <small>April 25, 2017 at 1:03 am</small></h6>
-									<p class="mt-2">Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p>
+									<p class="mt-2">A clear direction gives every decision more weight and makes the final experience easier to understand.</p>
 									<a href="#" class="ml-0 mr-1 mt-3 mb-1 cursor-link">reply</a>
 								</div>
 								<div class="separator-wrap pt-4 pb-4">	
@@ -144,7 +144,7 @@ const html = `<!-- Page preloader wrap
 								<div class="section">	
 									<img src="/alke/img/t3.jpg" alt="">
 									<h6>John Doe <small>April 25, 2017 at 1:03 am</small></h6>
-									<p class="mt-2">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p>
+									<p class="mt-2">Strong design comes from reducing noise, choosing details carefully, and keeping the audience in view.</p>
 									<a href="#" class="ml-0 mr-1 mt-3 mb-1 cursor-link">reply</a>
 								</div>
 								<div class="separator-wrap pt-4 pb-4">	
@@ -153,7 +153,7 @@ const html = `<!-- Page preloader wrap
 								<div class="section">	
 									<img src="/alke/img/t1.jpg" alt="">
 									<h6>Marco Kulis <small>April 25, 2017 at 1:03 am</small></h6>
-									<p class="mt-2">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p>
+									<p class="mt-2">The most useful feedback points toward the heart of the work and helps the team move with confidence.</p>
 									<a href="#" class="ml-0 mr-1 mt-3 mb-1 cursor-link">reply</a>
 								</div>
 							</div>
@@ -237,10 +237,10 @@ const html = `<!-- Page preloader wrap
 									<a href="/post" class="btn-link btn-primary cursor-link pl-0">Moments from a life.</a>
 								</li>
 								<li>
-									<a href="/post" class="btn-link btn-primary cursor-link pl-0">Modern webdesign.</a>
+									<a href="/post" class="btn-link btn-primary cursor-link pl-0">Modern web design.</a>
 								</li>
 								<li>
-									<a href="/post" class="btn-link btn-primary cursor-link pl-0">Don´t give up...</a>
+									<a href="/post" class="btn-link btn-primary cursor-link pl-0">Don't give up...</a>
 								</li>
 							</ul>	
 							<div class="separator-wrap my-5">	
@@ -262,16 +262,16 @@ const html = `<!-- Page preloader wrap
 							<h6 class="mb-3">Archives</h6>
 							<ul class="list-style circle-o pl-4 pb-0">	
 								<li>
-									<a href="#" class="btn-link btn-primary cursor-link pl-0">august 2017</a>
+									<a href="#" class="btn-link btn-primary cursor-link pl-0">August 2017</a>
 								</li>	
 								<li>
-									<a href="#" class="btn-link btn-primary cursor-link pl-0">july 2017</a>
+									<a href="#" class="btn-link btn-primary cursor-link pl-0">July 2017</a>
 								</li>	
 								<li>
-									<a href="#" class="btn-link btn-primary cursor-link pl-0">june 2017</a>
+									<a href="#" class="btn-link btn-primary cursor-link pl-0">June 2017</a>
 								</li>	
 								<li>
-									<a href="#" class="btn-link btn-primary cursor-link pl-0">may 2017</a>
+									<a href="#" class="btn-link btn-primary cursor-link pl-0">May 2017</a>
 								</li>
 							</ul>				
 						</div>

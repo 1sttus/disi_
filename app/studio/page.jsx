@@ -60,7 +60,7 @@ const html = `<!-- Page preloader wrap
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-md-8 text-center">
-						<p class="mb-0 pb-0 lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+						<p class="mb-0 pb-0 lead">We help ambitious teams shape clear identities, memorable campaigns, and digital experiences that feel simple to use and hard to forget. Every project starts with careful listening and ends with work built to serve real people.</p>
 					</div>
 					<div class="section clearfix"></div>
 					<div class="col-md-12 padding-top-bottom">
@@ -70,20 +70,20 @@ const html = `<!-- Page preloader wrap
 					</div>
 					<div class="col-md-4 text-center" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
 						<h5 class="mb-3">brand strategy</h5>
-						<p class="mb-0 pb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
+						<p class="mb-0 pb-0">We define the voice, position, and visual direction that make a brand easier to recognize.</p>
 					</div>
 					<div class="col-md-4 text-center mt-5 mt-md-0" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
 						<h5 class="mb-3">identity design</h5>
-						<p class="mb-0 pb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
+						<p class="mb-0 pb-0">We design flexible systems for logos, type, color, imagery, and day-to-day communication.</p>
 					</div>
 					<div class="section clearfix"></div>
 					<div class="col-md-4 text-center mt-5" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
 						<h5 class="mb-3">campaigns</h5>
-						<p class="mb-0 pb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
+						<p class="mb-0 pb-0">We create focused campaign concepts that connect across print, motion, social, and digital channels.</p>
 					</div>
 					<div class="col-md-4 text-center mt-5" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
 						<h5 class="mb-3">web design</h5>
-						<p class="mb-0 pb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
+						<p class="mb-0 pb-0">We build polished websites that balance strong visual design with fast, intuitive user journeys.</p>
 					</div>
 				</div>	
 			</div>			

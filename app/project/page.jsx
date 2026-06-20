@@ -81,7 +81,7 @@ const html = `<!-- Page preloader wrap
 					</div>
 					<div class="section clearfix"></div>
 					<div class="col-md-8 padding-top-bottom text-center" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
-						<p class="mb-0 pb-0 lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+						<p class="mb-0 pb-0 lead">Kresios needed a campaign language that could feel refined, direct, and adaptable across every touchpoint. We built a visual system around confident photography, disciplined typography, and a clear editorial rhythm.</p>
 					</div>
 					<div class="section clearfix"></div>
 					<div class="col-md-12" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
@@ -96,15 +96,15 @@ const html = `<!-- Page preloader wrap
 					<div class="section clearfix padding-top"></div>
 					<div class="col-md-4 text-center" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
 						<h5 class="mb-3">art direction</h5>
-						<p class="mb-0 pb-0">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia.</p>
+						<p class="mb-0 pb-0">We shaped the concept, visual references, and on-set direction for a consistent campaign mood.</p>
 					</div>
 					<div class="col-md-4 text-center mt-4 mt-md-0" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
 						<h5 class="mb-3">cinematography</h5>
-						<p class="mb-0 pb-0">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia.</p>
+						<p class="mb-0 pb-0">We planned movement, framing, and pacing so the story works in both short and long formats.</p>
 					</div>
 					<div class="col-md-4 text-center mt-4 mt-md-0" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
 						<h5 class="mb-3">advertising</h5>
-						<p class="mb-0 pb-0">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia.</p>
+						<p class="mb-0 pb-0">We translated the campaign into clear messages for print, social, and digital placements.</p>
 					</div>
 					<div class="section clearfix padding-bottom"></div>
 				</div>	
@@ -121,7 +121,7 @@ const html = `<!-- Page preloader wrap
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-md-8 padding-top-bottom text-center" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
-						<p class="mb-0 pb-0 lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+						<p class="mb-0 pb-0 lead">The final identity gives the brand a sharper presence while keeping the work warm and approachable. Each asset was prepared as part of a reusable toolkit, so the team can keep building with the same clarity after launch.</p>
 					</div>
 					<div class="col-md-12">
 						<div class="img-wrap" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">

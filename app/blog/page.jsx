@@ -63,7 +63,7 @@ const html = `<!-- Page preloader wrap
 						<a href="/post" class="cursor-link-blog-post-1 animsition-link tipped" data-title="<span><em>by Maria Kulis</em></span>" data-tipper-options='{"direction":"top","follow":"true","margin":60}'>
 							<div class="blog-post-box">
 								<h5>We want to share with you our mood after selection.</h5>
-								<p class="mb-0 mt-2">october 27, 2018</p>
+								<p class="mb-0 mt-2">October 27, 2018</p>
 							</div>
 						</a>
 					</div>
@@ -71,7 +71,7 @@ const html = `<!-- Page preloader wrap
 						<a href="/post" class="cursor-link-blog-post-2 animsition-link tipped" data-title="<span><em>by Dexter Lazich</em></span>" data-tipper-options='{"direction":"top","follow":"true","margin":60}'>
 							<div class="blog-post-box">
 								<h5>Sleep, code, eat, travel. Repeat.</h5>
-								<p class="mb-0 mt-2">october 24, 2018</p>
+								<p class="mb-0 mt-2">October 24, 2018</p>
 							</div>
 						</a>
 					</div>
@@ -79,15 +79,15 @@ const html = `<!-- Page preloader wrap
 						<a href="/post" class="cursor-link-blog-post-3 animsition-link tipped" data-title="<span><em>by Anna Johnson</em></span>" data-tipper-options='{"direction":"top","follow":"true","margin":60}'>
 							<div class="blog-post-box">
 								<h5>Don’t get lost quoting your next projects.</h5>
-								<p class="mb-0 mt-2">october 23, 2018</p>
+								<p class="mb-0 mt-2">October 23, 2018</p>
 							</div>
 						</a>
 					</div>
 					<div class="col-md-12 text-center mt-5">
 						<a href="/post" class="cursor-link-blog-post-4 animsition-link tipped" data-title="<span><em>by Maria Kulis</em></span>" data-tipper-options='{"direction":"top","follow":"true","margin":60}'>
 							<div class="blog-post-box">
-								<h5>Don´t give up, keep on focus.</h5>
-								<p class="mb-0 mt-2">october 21, 2018</p>
+								<h5>Don't give up, stay focused.</h5>
+								<p class="mb-0 mt-2">October 21, 2018</p>
 							</div>
 						</a>
 					</div>
@@ -95,7 +95,7 @@ const html = `<!-- Page preloader wrap
 						<a href="/post" class="cursor-link-blog-post-5 animsition-link tipped" data-title="<span><em>by John Kulis</em></span>" data-tipper-options='{"direction":"top","follow":"true","margin":60}'>
 							<div class="blog-post-box">
 								<h5>Moments from a life. Day of photography.</h5>
-								<p class="mb-0 mt-2">october 19, 2018</p>
+								<p class="mb-0 mt-2">October 19, 2018</p>
 							</div>
 						</a>
 					</div>
@@ -103,15 +103,15 @@ const html = `<!-- Page preloader wrap
 						<a href="/post" class="cursor-link-blog-post-6 animsition-link tipped" data-title="<span><em>by Darco Furius</em></span>" data-tipper-options='{"direction":"top","follow":"true","margin":60}'>
 							<div class="blog-post-box">
 								<h5>How you look at it is pretty much how you'll see it.</h5>
-								<p class="mb-0 mt-2">october 17, 2018</p>
+								<p class="mb-0 mt-2">October 17, 2018</p>
 							</div>
 						</a>
 					</div>
 					<div class="col-md-12 text-center mt-5" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
 						<a href="/post" class="cursor-link-blog-post-7 animsition-link tipped" data-title="<span><em>by Maria Kulis</em></span>" data-tipper-options='{"direction":"top","follow":"true","margin":60}'>
 							<div class="blog-post-box">
-								<h5>Don´t give up, keep on focus.</h5>
-								<p class="mb-0 mt-2">october 16, 2018</p>
+								<h5>Don't give up, stay focused.</h5>
+								<p class="mb-0 mt-2">October 16, 2018</p>
 							</div>
 						</a>
 					</div>

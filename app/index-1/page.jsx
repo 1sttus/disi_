@@ -106,7 +106,7 @@ const html = `<!-- Page preloader wrap
 							<div class="row">
 								<div class="col-md-12">
 									<h3 class="velo-slide__title"><span class="oh"><span>Reconstype</span></span></h3>
-									<p class="velo-slide__text"><span class="oh"><span>graphic Design, typography, interaction</span></span></p>
+									<p class="velo-slide__text"><span class="oh"><span>Graphic design, typography, interaction</span></span></p>
 									<span class="velo-slide__btn"><a class="btn-draw cursor-link animsition-link" href="/project"><span class="btn-draw__text"><span>View Project</span></span></a></span>
 								</div>
 							</div>	

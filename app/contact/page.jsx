@@ -97,7 +97,7 @@ const html = `<!-- Page preloader wrap
 				<div class="container z-bigger">
 					<div class="row justify-content-center">
 						<div class="col-md-7 text-center" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
-							<h5>99-81 middagh st, Brooklyn<br>NY 11201, USA</h5>
+							<h5>99-81 Middagh St, Brooklyn<br>NY 11201, USA</h5>
 						</div>
 						<div class="section clearfix"></div>
 						<div class="col-md-7 mt-5 text-center" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">

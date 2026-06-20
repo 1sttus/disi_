@@ -55,7 +55,7 @@ const html = `<!-- Page preloader wrap
 					<span>Kresios</span> <a href="/project" class="cursor-link animsition-link">explore</a>
 				</li>
 				<li class="case-study-name">                                        	
-					<span>Cioccolati</span> <a href="/project" class="cursor-link animsition-link">explore</a>
+					<span>Chocolates</span> <a href="/project" class="cursor-link animsition-link">explore</a>
 				</li>
 				<li class="case-study-name">                                         	
 					<span>Maybach</span> <a href="/project" class="cursor-link animsition-link">explore</a>
@@ -74,7 +74,7 @@ const html = `<!-- Page preloader wrap
 					<div class="hero-number-back">01</div> 
 					<div class="hero-number">01</div> 
 					<div class="hero-number-fixed">06</div> 
-					<div class="case-study-title">graphic Design, typography, interaction</div> 
+					<div class="case-study-title">Graphic design, typography, interaction</div> 
 				</li>
 				<li>
 					<div class="img-hero-background" style="background-image: url('/alke/img/4.jpg');"></div> 
