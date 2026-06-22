@@ -43,22 +43,22 @@ const html = `<!-- Page preloader wrap
 			<div class="case-study-name-title">recent projects</div>
 			<ul class="case-study-wrapper">
 					<li class="case-study-name">                            	
-					<span>Creative brand website</span> <a href="/project" class="cursor-link animsition-link">view project</a>
+					<span>Vital Sync</span> <a href="/project" class="cursor-link animsition-link">view project</a>
 				</li>
 				<li class="case-study-name">                                         	
-					<span>For His Reward NGO</span> <a href="/project" class="cursor-link animsition-link">view project</a>
+					<span>SecureLife</span> <a href="/project" class="cursor-link animsition-link">view project</a>
 				</li>
 				<li class="case-study-name">                                        	
-					<span>BCM Conference Branding</span> <a href="/project" class="cursor-link animsition-link">view project</a>
+					<span>DaffJack</span> <a href="/project" class="cursor-link animsition-link">view project</a>
 				</li>
 				<li class="case-study-name">                                         	
-					<span>Christian Author Book Covers</span> <a href="/project" class="cursor-link animsition-link">view project</a>
+					<span>Books</span> <a href="/project" class="cursor-link animsition-link">view project</a>
 				</li>
 				<li class="case-study-name">                                           	
-					<span>Real Estate Landing Page</span> <a href="/project" class="cursor-link animsition-link">view project</a>
+					<span>Wedding</span> <a href="/project" class="cursor-link animsition-link">view project</a>
 				</li>
 				<li class="case-study-name">                                         	
-					<span>Fintech Mobile App UI</span> <a href="/project" class="cursor-link animsition-link">view project</a>
+					<span>Fintech</span> <a href="/project" class="cursor-link animsition-link">view project</a>
 				</li>
 			</ul>
 			<ul class="case-study-images">
